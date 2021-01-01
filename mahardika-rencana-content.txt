@@ -4,6 +4,7 @@ RENCANA KONTEN MAHARDIKA
   *Jenis-jenis Arduino
   *Instal Arduino IDE
   *Instal driver
+- Struktur kode Arduino
 - Kode Dasar
 - Fixing Arduino
 - Simple Code
