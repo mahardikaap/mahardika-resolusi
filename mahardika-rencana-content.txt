@@ -1,0 +1,6 @@
+RENCANA KONTEN MAHARDIKA
+
+- Dasar Arduino
+- Kode Dasar
+- Fixing Arduino
+- Simple Code
