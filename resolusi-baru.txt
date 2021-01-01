@@ -1,6 +1,5 @@
 SHORT MAHARDIKA RESOLUSI
-- Membuat akun Github
-- Belajar menggunakan Github
+- Belajar menggunakan Github (sedang berjalan)
 - Lanjut menonton video Github
 - Memasukkan project ke Github
 - Lanjut ke Git
