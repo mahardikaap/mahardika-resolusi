@@ -1,0 +1,9 @@
+RENCANA KONTEN MAHARDIKA
+
+- Dasar Arduino
+  *Jenis-jenis Arduino
+  *Instal Arduino IDE
+  *Instal driver
+- Kode Dasar
+- Fixing Arduino
+- Simple Code
