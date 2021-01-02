@@ -2,9 +2,12 @@ RENCANA KONTEN MAHARDIKA
 
 - Dasar Arduino
   *Jenis-jenis Arduino
+   ^Arduino Shield
+   ^Arduino Nano
   *Instal Arduino IDE
   *Instal driver
 - Struktur kode Arduino
 - Kode Dasar
-- Fixing Arduino
 - Simple Code
+  ^Blink
+  ^Millis
