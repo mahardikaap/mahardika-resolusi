@@ -2,9 +2,14 @@ RENCANA KONTEN MAHARDIKA
 
 - Dasar Arduino
   *Jenis-jenis Arduino
+   ^Arduino Uno
+   ^Arduino Nano
+   ^Arduino Mega
   *Instal Arduino IDE
   *Instal driver
 - Struktur kode Arduino
 - Kode Dasar
 - Fixing Arduino
 - Simple Code
+- NodeMCU
+  ^Instal ESP di Arduino IDE
