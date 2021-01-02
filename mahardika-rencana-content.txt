@@ -9,7 +9,8 @@ RENCANA KONTEN MAHARDIKA
   *Instal driver
 - Struktur kode Arduino
 - Kode Dasar
-- Fixing Arduino
 - Simple Code
+  ^Blink
+  ^Millis
 - NodeMCU
   ^Instal ESP di Arduino IDE
