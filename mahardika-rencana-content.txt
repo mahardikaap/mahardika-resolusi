@@ -2,8 +2,9 @@ RENCANA KONTEN MAHARDIKA
 
 - Dasar Arduino
   *Jenis-jenis Arduino
-   ^Arduino Shield
+   ^Arduino Uno
    ^Arduino Nano
+   ^Arduino Mega
   *Instal Arduino IDE
   *Instal driver
 - Struktur kode Arduino
@@ -11,3 +12,5 @@ RENCANA KONTEN MAHARDIKA
 - Simple Code
   ^Blink
   ^Millis
+- NodeMCU
+  ^Instal ESP di Arduino IDE
