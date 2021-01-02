@@ -12,3 +12,4 @@ RENCANA KONTEN MAHARDIKA
 - Fixing Arduino
 - Simple Code
 - NodeMCU
+  ^Instal ESP di Arduino IDE
